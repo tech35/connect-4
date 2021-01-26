@@ -9,3 +9,5 @@ Connect 4 Created In Python
 
 
 Please Support Me by Following. :)
+
+Original By Keith Galli: https://github.com/KeithGalli/Connect4-Python
