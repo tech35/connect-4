@@ -10,4 +10,5 @@ Connect 4 Created In Python
 
 Please Support Me by Following. :)
 
-Original By Keith Galli: https://github.com/KeithGalli/Connect4-Python
+Check out the orginal made by Keith Galli: https://github.com/KeithGalli/Connect4-Python
+Also check out Keith Galli's Youtube Channel: https://www.youtube.com/channel/UCq6XkhO5SZ66N04IcPbqNcw
