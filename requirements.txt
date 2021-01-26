@@ -1,0 +1,12 @@
+numpy: "pip install numpy"
+
+random: "pip install random"
+
+pygame: "pip install pygame"
+
+sys: "pip install sys"
+
+math: "pip install math"
+
+
+To install pip; For Python 3: "sudo apt install python3-pip", For Python 2: "sudo apt install python-pip"
